@@ -36,4 +36,5 @@ This is a risk analysing dashboard project that shows info about Bank details an
    rejecting those who are less likely to repay.
 
 6. Demo
-   Bank analysis Dashboard
+   ![Alt text](https://github.com/divyaPrakash2004/Bank-Risk-Analysis/blob/main/bank%20dashboard.png)
+   Bank analysis Dashboard- https://github.com/divyaPrakash2004/Bank-Risk-Analysis/blob/main/bank%20dashboard.png
