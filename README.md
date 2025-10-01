@@ -8,11 +8,11 @@ This is a risk analysing dashboard project that shows info about Bank details an
    understand how data is used to minimise the risk of losing money while lending to customers.
    
 3. Tools Used :
-   Power BI
-   Excel
-   MySql
-   Python
-   Canva
+   Power BI,
+   Excel,
+   MySql,
+   Python,
+   Canva,
    Jupyter Notebook
 
 4. Dataset :
